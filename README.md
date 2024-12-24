@@ -10,6 +10,7 @@ The target audience consists of users who wish to obtain real-time information t
 Clove is designed to provide personalized assistance by leveraging advanced AI capabilities. Users can interact with the app to receive tailored responses and insights based on their queries.
 
 ## App Structure
+![alt text](image-2.png)
 The app is structured to facilitate a seamless user experience, incorporating features that allow for easy navigation and interaction with the AI agent.
 
 ### Wireframe
