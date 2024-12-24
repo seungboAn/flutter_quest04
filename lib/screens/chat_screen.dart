@@ -13,6 +13,16 @@ class _ChatScreenState extends State<ChatScreen> {
   List<Map<String, String>> messages = [
     {'sender': 'user', 'text': 'Hi, Clove'},
     {'sender': 'ai', 'text': 'Hello, James! You seem a bit down today.'},
+    {'sender': 'user', 'text': 'Yeah, I’ve had a rough day.'},
+    {'sender': 'ai', 'text': 'I’m sorry to hear that. Want to talk about it?'},
+    {'sender': 'user', 'text': 'I just feel overwhelmed with work.'},
+    {'sender': 'ai', 'text': 'That’s understandable. Taking breaks can really help. Have you had a chance to relax?'},
+    {'sender': 'user', 'text': 'Not really. I’ve been working non-stop.'},
+    {'sender': 'ai', 'text': 'It might be helpful to step away for a few minutes. How about a short walk?'},
+    {'sender': 'user', 'text': 'That sounds good. I’ll try that.'},
+    {'sender': 'ai', 'text': 'Great! Remember, it’s important to take care of yourself.'},
+    {'sender': 'user', 'text': 'Thanks, Clove. I appreciate your help!'},
+    {'sender': 'ai', 'text': "You're welcome, James! I'm here whenever you need me."},
   ];
   bool isPhotoMode = true;
   bool isListening = true;
