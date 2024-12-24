@@ -50,3 +50,7 @@ The app is structured to facilitate a seamless user experience, incorporating fe
   - **custom_app_bar.dart**: Defines a customized app bar widget.
     
 ## Demo
+
+## Reference
+- https://deepmind.google/technologies/project-astra/
+- https://www.youtube.com/watch?v=hIIlJt8JERI
