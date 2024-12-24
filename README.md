@@ -13,6 +13,7 @@ Clove is designed to provide personalized assistance by leveraging advanced AI c
 The app is structured to facilitate a seamless user experience, incorporating features that allow for easy navigation and interaction with the AI agent.
 
 ### Wireframe
+[Wireframe link](https://www.figma.com/proto/XXRTo3RHwCrnm1EGSQMIsT/AI-service?node-id=24-40&t=vTM0iOLJ6BuyRyqU-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A40)
 ![alt text](image.png)
 
 ## Prototyping
